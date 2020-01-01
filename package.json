@@ -4,7 +4,7 @@
   "description": "Coding tracks:",
   "private":"true",
   "scripts": {
-    "submit":"node index.js"
+    "commit": "git add --all && git commit -m complete-excercise && git push"
   },
   "repository": {
     "type": "git",
