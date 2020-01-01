@@ -1,0 +1,15 @@
+{
+  "name": "exercism",
+  "version": "1.0.0",
+  "description": "Coding tracks:",
+  "private":"true",
+  "scripts": {
+    "submit":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CliffCrerar/exercism.git"
+  },
+  "author": "Cliff Crerar",
+  "license": "MIT"
+}
